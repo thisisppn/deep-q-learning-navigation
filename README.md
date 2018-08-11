@@ -56,4 +56,4 @@ To set up your python environment to run the code in this repository, follow the
 	pip install jupyter
 	```
 
-4.  Run `jupyter notebook` and open the Navigation.ipynb file and execute the cells serially to start the training.
+3.  Run `jupyter notebook` and open the `Navigation.ipynb` file and execute the cells serially to start the training. On running `jupyter notebook`, you browser should open up to something like this![enter image description here](https://i.imgur.com/WEOAkSo.png)
