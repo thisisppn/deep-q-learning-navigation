@@ -45,8 +45,8 @@ To set up your python environment to run the code in this repository, follow the
     ```
     -   **Windows**:
     ```
-    conda create --name drlnd python=3.6 
-    activate drlnd
+    conda create --name dqn-banana python=3.6 
+    activate dqn-banana
     ```
 2.  Clone the repository (if you haven't already!), and navigate to the  `python/`  folder. Then, install several dependencies.
 	```
