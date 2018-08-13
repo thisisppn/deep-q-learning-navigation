@@ -51,13 +51,10 @@ To set up your python environment to run the code in this repository, follow the
 2.  Clone the repository (if you haven't already!), and navigate to the  `python/`  folder. Then, install several dependencies.
 	```
 	git clone https://github.com/thisisppn/deep-q-learning-navigation.git
-	cd deep-reinforcement-learning/python
+	cd deep-q-learning-navigation/python
 	pip install .
 	pip install jupyter
 	```
 
 3.  Run `jupyter notebook` and open the `Navigation.ipynb` file and execute the cells serially to start the training. On running `jupyter notebook`, you browser should open up to something like this![enter image description here](https://i.imgur.com/WEOAkSo.png)
 
-_References_
-- I've used the code for the `Agent` & `ReplayBuffer` from the DQN chapter of the course. 
-- Some of the environment description, setup &  has been used from the course notes. 
